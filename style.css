@@ -1,0 +1,16 @@
+
+
+
+form{
+    margin: 10% auto;
+    background-color: rgb(211 211 211 / 29%);
+padding: 1%;
+}
+
+.invalid{
+    border: 1px solid red;
+}
+.valid{
+    border: 1px solid green;
+
+}
